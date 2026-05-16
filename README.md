@@ -1,4 +1,7 @@
 # AI Resume Intelligence Platform
+<img width="1648" height="1384" alt="image" src="https://github.com/user-attachments/assets/6ebf0ce4-052a-44b7-9b91-09c61db5ecab" />
+
+
 
 A modern web application that uses AI to optimize resumes for specific job descriptions, with ATS scoring and keyword analysis.
 
